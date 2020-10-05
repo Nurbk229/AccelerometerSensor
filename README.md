@@ -1,5 +1,6 @@
 # AccelerometerSensor
-
+The accelerometer returns the forces applied on the phone for x, y and z directions.
+************************************************
 # Simple example
 ![ ](https://user-images.githubusercontent.com/41232970/95120801-c2b29f00-0756-11eb-89cb-ebe003d4f560.gif) 
 
